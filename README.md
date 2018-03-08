@@ -1,4 +1,4 @@
-#Allgoodfeels Shopify Site
+# Allgoodfeels Shopify Site
 
 Using `slate` to build/upload theme. Documentation for Slate can be found [here](https://shopify.github.io/slate/)
 
